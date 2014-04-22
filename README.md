@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [mbostock/d3](http://github.com/mbostock/d3). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/mbostock-d3`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Data-Driven Documents
 
 <a href="http://d3js.org"><img src="http://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
